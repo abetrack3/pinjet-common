@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 
-VERSION = '0.0.1'
+VERSION = '1.0.0'
 DESCRIPTION = 'Common constants used throughout pinjet projects'
 AUTHOR = 'abetrack3 (Abrar Shahriar Abeed)'
 AUTHOR_EMAIL = '<abrarshahriar2361@gmail.com>'
